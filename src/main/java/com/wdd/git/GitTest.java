@@ -9,5 +9,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hell,git-test");
         System.out.println("hell,git-test2");
+        System.out.println("hell,git-test3");
     }
 }
